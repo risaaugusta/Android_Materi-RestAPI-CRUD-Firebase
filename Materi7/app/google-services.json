@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "1028095998718",
+    "firebase_url": "https://authandmessaging-efffb.firebaseio.com",
+    "project_id": "authandmessaging-efffb",
+    "storage_bucket": "authandmessaging-efffb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028095998718:android:8437b8d35425bda8",
+        "android_client_info": {
+          "package_name": "com.example.risa.materi8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028095998718-d9cmuq6rq46hbsqosadi4v38br5tfq6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.risa.materi8",
+            "certificate_hash": "02b954bed27ea32b75defc99d1bdfa4c597ad36d"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMbT3RP_I0tw02ot32MBNV3OIRDbktqYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028095998718-dp3nbrti0it9lvuuhln4f9po1it3s3ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

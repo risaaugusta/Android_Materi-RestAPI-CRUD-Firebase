@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Materi 6.2</string>
+    <string name="title_activity_insert">InsertActivity</string>
+    <string name="title_activity_edit">EditActivity</string>
+</resources>
